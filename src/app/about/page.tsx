@@ -1,5 +1,5 @@
 // `app/about/page.tsx` is the UI for the `/about` URL
-
+import './globals.css'
 import Image from 'next/image'
 export default function Page() {
     return(
